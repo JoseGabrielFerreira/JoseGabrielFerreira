@@ -27,12 +27,7 @@ Tenho perfil analítico, facilidade para aprender e motivação constante para e
 
 ---
 
-## Projeto em destaque
-
-**Sistema de Login com Interface Gráfica (Python + Tkinter)**
-Sistema com cadastro de usuários, validação de dados e geração automática de ID.
-
-Novos projetos estão em desenvolvimento.
+Projetos estão em desenvolvimento.
 
 ---
 
