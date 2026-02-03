@@ -19,7 +19,7 @@ Tenho perfil analítico, facilidade para aprender e motivação constante para e
 ## Tecnologias
 
 * Python
-* SQL
+* SQL 
 * Banco de Dados
 * Lógica de Programação
 * Programação Orientada a Objetos (em evolução)
