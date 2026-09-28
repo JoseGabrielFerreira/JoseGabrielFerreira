@@ -1,6 +1,6 @@
 **José Gabriel Cruz**
 
-Estudante de Ciência da Computação (3º semestre)
+Estudante de Ciência da Computação (4º semestre)
 Desenvolvedor em formação
 
 ---
