@@ -24,11 +24,11 @@ Também tenho contato com **HTML e CSS** e, atualmente, estou aprofundando meus 
 
 ## 📚 Estudos
 
+- ⚡ JavaScript — estudando atualmente
 - ☕ Java e Programação Orientada a Objetos
 - 🌱 Spring Boot e APIs REST
 - 🗄️ Banco de Dados e SQL
 - 🌐 HTML e CSS
-- ⚡ JavaScript — estudando atualmente
 - 🔧 Git e GitHub
 - 💻 Lógica de Programação
 - 🧩 Engenharia de Software
