@@ -17,7 +17,7 @@ Também tenho contato com **HTML e CSS** e, atualmente, estou aprofundando meus 
 ## 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github,vscode" />
 </p>
 
 ---
