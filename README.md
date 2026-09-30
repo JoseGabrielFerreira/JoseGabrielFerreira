@@ -1,30 +1,35 @@
-# 👨‍💻 José Gabriel Cruz
+# 👨‍💻 José Gabriel 
 
 **Estudante de Ciência da Computação | Desenvolvedor em formação**
 
-Olá! Eu sou José Gabriel, estudante de **Ciência da Computação na UniFAJ**, atualmente no 4º semestre.
+Olá! Eu sou José Gabriel, estudante de **Ciência da Computação na UniFAJ**, atualmente no **4º semestre**.
 
-Tenho experiência acadêmica principalmente com **Java, Programação Orientada a Objetos, Spring Boot e APIs REST**. Também estudo e pratico **JavaScript, Python, HTML, CSS, SQL e Banco de Dados**.
+Durante a faculdade, venho desenvolvendo projetos e realizando exercícios principalmente com **Java, Programação Orientada a Objetos, Spring Boot, APIs REST e Banco de Dados/SQL**.
 
-Gosto de aprender através de projetos e estou buscando minha **primeira oportunidade como estagiário em Desenvolvimento de Software**.
+Também tenho contato com **HTML e CSS** e, atualmente, estou aprofundando meus estudos em **JavaScript**, buscando ampliar meus conhecimentos em desenvolvimento web.
+
+🚀 Gosto de aprender colocando a programação em prática, desenvolvendo projetos acadêmicos e pessoais.
+
+🎯 Atualmente busco minha primeira oportunidade como **estagiário em Desenvolvimento de Software**, enquanto continuo explorando diferentes áreas para definir minha especialização.
 
 ---
 
 ## 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,python,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 📚 Estudos
 
-- ☕ Java • POO • Spring Boot
-- 🌐 HTML • CSS • JavaScript
-- 🐍 Python
-- 🗄️ SQL • MySQL • Banco de Dados
-- 🔧 Git • GitHub
+- ☕ Java e Programação Orientada a Objetos
+- 🌱 Spring Boot e APIs REST
+- 🗄️ Banco de Dados e SQL
+- 🌐 HTML e CSS
+- ⚡ JavaScript — estudando atualmente
+- 🔧 Git e GitHub
 - 💻 Lógica de Programação
 - 🧩 Engenharia de Software
 
@@ -39,17 +44,57 @@ Gosto de aprender através de projetos e estou buscando minha **primeira oportun
 
 ---
 
+## 🔥 Atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoseGabrielFerreira&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🚀 Projetos
 
-📚 **Controle de Biblioteca**  
-Projeto acadêmico desenvolvido com Java.
+### 📚 Controle de Biblioteca
 
-🎮 **Jogo do Número Secreto**  
-Projeto desenvolvido durante meus estudos de JavaScript.
+Projeto acadêmico desenvolvido durante a faculdade, trabalhando conceitos de **Java, Programação Orientada a Objetos e Banco de Dados**.
+
+🔗 [Ver projeto no GitHub](https://github.com/JoseGabrielFerreira/controle-biblioteca-aps)
+
+### 🎮 Jogo do Número Secreto
+
+Projeto desenvolvido durante meus estudos de **JavaScript**, praticando lógica de programação, funções, listas e interação com o usuário.
+
+🔗 [Ver projeto no GitHub](https://github.com/JoseGabrielFerreira/jogo-do-numero-secreto)
+
+🌐 [Acessar projeto](https://jogo-alpha-seven-36.vercel.app/)
+
+---
+
+## 🎓 Formação
+
+**Centro Universitário de Jaguariúna — UniFAJ**
+
+🎓 Ciência da Computação  
+📚 4º semestre
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegabrielcruz/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseGabrielFerreira)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/josegabrielcruz/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JoseGabrielFerreira">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  💻 <strong>Sempre aprendendo e colocando o conhecimento em prática.</strong> 🚀
+</p>
