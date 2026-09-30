@@ -8,8 +8,6 @@ Durante a faculdade, venho desenvolvendo projetos e realizando exercícios princ
 
 Também tenho contato com **HTML e CSS** e, atualmente, estou aprofundando meus estudos em **JavaScript**, buscando ampliar meus conhecimentos em desenvolvimento web.
 
-🚀 Gosto de aprender colocando a programação em prática, desenvolvendo projetos acadêmicos e pessoais.
-
 🎯 Atualmente busco minha primeira oportunidade como **estagiário em Desenvolvimento de Software**, enquanto continuo explorando diferentes áreas para definir minha especialização.
 
 ---
