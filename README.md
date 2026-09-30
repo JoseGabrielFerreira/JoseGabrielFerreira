@@ -94,7 +94,3 @@ Projeto desenvolvido durante meus estudos de **JavaScript**, praticando lógica 
 </p>
 
 ---
-
-<p align="center">
-  💻 <strong>Sempre aprendendo e colocando o conhecimento em prática.</strong> 🚀
-</p>
