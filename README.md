@@ -1,4 +1,4 @@
-# 👨‍💻 José Gabriel 
+# 👨‍💻 José Gabriel
 
 **Estudante de Ciência da Computação | Desenvolvedor em formação**
 
@@ -50,7 +50,24 @@ Também tenho contato com **HTML e CSS** e, atualmente, estou aprofundando meus 
 
 ---
 
-## 🚀 Projetos
+## 🚀 Principais Projetos
+
+### 🚭 TRAGOFF — Sistema de Acompanhamento do Consumo de Cigarros
+
+Projeto acadêmico desenvolvido em equipe durante a disciplina de Projeto Prático Integrado, com o objetivo de ajudar usuários a acompanhar e reduzir o consumo de cigarros.
+
+O sistema permite registrar o consumo, acompanhar estatísticas, identificar horários e situações de maior consumo, calcular gastos e monitorar metas de redução.
+
+**Principais funcionalidades:**
+- 📋 Registro e acompanhamento do consumo.
+- 📊 Estatísticas diárias, semanais e mensais.
+- 💰 Cálculo dos gastos com cigarros.
+- 🎯 Definição e acompanhamento de metas de redução.
+- 📈 Visualização da evolução do usuário.
+
+**Tecnologias:** Java, Spring Boot, APIs REST, MySQL, HTML, CSS e JavaScript.
+
+🔗 [Ver projeto TRAGOFF no GitHub](https://github.com/JoseGabrielFerreira/tragoff)
 
 ### 📚 Controle de Biblioteca
 
@@ -80,15 +97,12 @@ Projeto desenvolvido durante meus estudos de **JavaScript**, praticando lógica 
 ## 📫 Contato
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/josegabrielcruz/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/JoseGabrielFerreira">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/josegabrielcruz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/JoseGabrielFerreira">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
