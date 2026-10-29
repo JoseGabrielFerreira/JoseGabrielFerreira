@@ -32,22 +32,6 @@ Também tenho contato com **HTML e CSS** e, atualmente, estou aprofundando meus 
 - 🧩 Engenharia de Software
 
 ---
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseGabrielFerreira&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGabrielFerreira&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Atividade
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoseGabrielFerreira&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🚀 Principais Projetos
