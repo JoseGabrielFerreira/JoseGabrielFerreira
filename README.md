@@ -1,92 +1,97 @@
-# 👨‍💻 José Gabriel
+<h1 align="center">Olá, eu sou o José Gabriel 👋</h1>
 
-**Estudante de Ciência da Computação | Desenvolvedor em formação**
+<p align="center">
+  <b>Estudante de Ciência da Computação · Desenvolvedor Full Stack em formação</b><br>
+  🎯 Em busca do meu primeiro <b>estágio em Desenvolvimento Web / Full Stack</b>
+</p>
 
-Olá! Eu sou José Gabriel, estudante de **Ciência da Computação na UniFAJ**, atualmente no **4º semestre**.
-
-Durante a faculdade, venho desenvolvendo projetos e realizando exercícios principalmente com **Java, Programação Orientada a Objetos, Spring Boot, APIs REST e Banco de Dados/SQL**.
-
-Também tenho contato com **HTML e CSS** e, atualmente, estou aprofundando meus estudos em **JavaScript**, buscando ampliar meus conhecimentos em desenvolvimento web.
-
-🎯 Atualmente busco minha primeira oportunidade como **estagiário em Desenvolvimento de Software**, enquanto continuo explorando diferentes áreas para definir minha especialização.
-
----
-
-## 🤖 Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github,vscode" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/josegabrielcruz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JoseGabrielFerreira">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-## 📚 Estudos
+## 👨‍💻 Sobre mim
 
-- ⚡ JavaScript — estudando atualmente
-- ☕ Java e Programação Orientada a Objetos
-- 🌱 Spring Boot e APIs REST
-- 🗄️ Banco de Dados e SQL
-- 🌐 HTML e CSS
-- 🔧 Git e GitHub
-- 💻 Lógica de Programação
-- 🧩 Engenharia de Software
+Sou estudante de **Ciência da Computação na UniFAJ** (4º semestre) e estou construindo minha base como **desenvolvedor Full Stack JavaScript/TypeScript**.
+
+Na faculdade, desenvolvi projetos com **Java, Programação Orientada a Objetos, Spring Boot, APIs REST e SQL**, o que me deu uma boa base de back-end e banco de dados. Hoje meu foco é o ecossistema **JavaScript**: consolidar os fundamentos, aprender **React** e seguir para **TypeScript e Node.js**.
+
+- 🌱 Estudando agora: **JavaScript** e **React**
+- 🎯 Objetivo: meu primeiro estágio em desenvolvimento web
 
 ---
+
+## 🛠️ Tecnologias
+
+**🔥 Estudando agora**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,supabase,vite" alt="Estudando agora" />
+</p>
+
+**✅ Já utilizei em projetos**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github,vscode" alt="Já utilizei" />
+</p>
+
+**🧭 Próximos passos**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,tailwind,nextjs" alt="Próximos passos" />
+</p>
+
 ---
 
-## 🚀 Principais Projetos
+## 🚀 Projetos em destaque
 
-### 🚭 TRAGOFF — Sistema de Acompanhamento do Consumo de Cigarros
+### 🚭 TRAGOFF — Acompanhamento do Consumo de Cigarros
 
-Projeto acadêmico desenvolvido em equipe durante a disciplina de Projeto Prático Integrado, com o objetivo de ajudar usuários a acompanhar e reduzir o consumo de cigarros.
+Projeto acadêmico desenvolvido em equipe na disciplina de Projeto Prático Integrado. O sistema ajuda usuários a acompanhar e reduzir o consumo de cigarros, identificando horários e situações de maior consumo.
 
-O sistema permite registrar o consumo, acompanhar estatísticas, identificar horários e situações de maior consumo, calcular gastos e monitorar metas de redução.
+**Funcionalidades:**
+- 📋 Registro e acompanhamento do consumo
+- 📊 Estatísticas diárias, semanais e mensais
+- 💰 Cálculo dos gastos com cigarros
+- 🎯 Definição e acompanhamento de metas de redução
 
-**Principais funcionalidades:**
-- 📋 Registro e acompanhamento do consumo.
-- 📊 Estatísticas diárias, semanais e mensais.
-- 💰 Cálculo dos gastos com cigarros.
-- 🎯 Definição e acompanhamento de metas de redução.
-- 📈 Visualização da evolução do usuário.
+**Tecnologias:** Java · Spring Boot · APIs REST · MySQL · HTML · CSS · JavaScript
 
-**Tecnologias:** Java, Spring Boot, APIs REST, MySQL, HTML, CSS e JavaScript.
+🔗 [Repositório](https://github.com/JoseGabrielFerreira/tragoff)
 
-🔗 [Ver projeto TRAGOFF no GitHub](https://github.com/JoseGabrielFerreira/tragoff)
-
-### 📚 Controle de Biblioteca
-
-Projeto acadêmico desenvolvido durante a faculdade, trabalhando conceitos de **Java, Programação Orientada a Objetos e Banco de Dados**.
-
-🔗 [Ver projeto no GitHub](https://github.com/JoseGabrielFerreira/controle-biblioteca-aps)
+---
 
 ### 🎮 Jogo do Número Secreto
 
-Projeto desenvolvido durante meus estudos de **JavaScript**, praticando lógica de programação, funções, listas e interação com o usuário.
+Projeto feito durante meus estudos de **JavaScript**, praticando lógica de programação, funções, listas e interação com o usuário.
 
-🔗 [Ver projeto no GitHub](https://github.com/JoseGabrielFerreira/jogo-do-numero-secreto)
+**Tecnologias:** HTML · CSS · JavaScript
 
-🌐 [Acessar projeto](https://jogo-alpha-seven-36.vercel.app/)
+🔗 [Repositório](https://github.com/JoseGabrielFerreira/jogo-do-numero-secreto) · 🌐 [Jogar online](https://jogo-alpha-seven-36.vercel.app/)
+
+---
+
+### 📚 Controle de Biblioteca
+
+Projeto acadêmico focado em **Java, Programação Orientada a Objetos e Banco de Dados**.
+
+🔗 [Repositório](https://github.com/JoseGabrielFerreira/controle-biblioteca-aps)
 
 ---
 
 ## 🎓 Formação
 
 **Centro Universitário de Jaguariúna — UniFAJ**
-
-🎓 Ciência da Computação  
-📚 4º semestre
+Bacharelado em Ciência da Computação · 4º semestre (em andamento)
 
 ---
 
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/josegabrielcruz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/JoseGabrielFerreira">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  💬 Aberto a oportunidades de estágio — fale comigo pelo <a href="https://www.linkedin.com/in/josegabrielcruz/">LinkedIn</a>!
 </p>
-
----
