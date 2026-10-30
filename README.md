@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o José Gabriel 👋</h1>
 
 <p align="center">
-  <b>Estudante de Ciência da Computação · Desenvolvedor Full Stack em formação</b><br>
-  🎯 Em busca do meu primeiro <b>estágio em Desenvolvimento Web / Full Stack</b>
+  <b>Desenvolvedor Full Stack Júnior na 2G Sistemas · Estudante de Ciência da Computação</b><br>
+  💻 Criando landing pages e sistemas web · 🌱 Evoluindo com JavaScript e React
 </p>
 
 <p align="center">
@@ -18,12 +18,23 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação na UniFAJ** (4º semestre) e estou construindo minha base como **desenvolvedor Full Stack JavaScript/TypeScript**.
+Sou desenvolvedor **Full Stack Júnior na 2G Sistemas** e estudante de **Ciência da Computação na UniFAJ** (4º semestre).
 
-Na faculdade, desenvolvi projetos com **Java, Programação Orientada a Objetos, Spring Boot, APIs REST e SQL**, o que me deu uma boa base de back-end e banco de dados. Hoje meu foco é o ecossistema **JavaScript**: consolidar os fundamentos, aprender **React** e seguir para **TypeScript e Node.js**.
+Na faculdade, desenvolvi projetos com **Java, Programação Orientada a Objetos, Spring Boot, APIs REST e SQL**, o que me deu uma boa base de back-end e banco de dados. Hoje meu foco é o ecossistema **JavaScript**: consolidar os fundamentos, aprofundar em **React** e seguir para **TypeScript e Node.js**.
 
+- 💼 Trabalhando com: **landing pages** na 2G Sistemas
 - 🌱 Estudando agora: **JavaScript** e **React**
-- 🎯 Objetivo: meu primeiro estágio em desenvolvimento web
+- 🎯 Objetivo: crescer como desenvolvedor Full Stack, aprendendo com projetos reais
+
+---
+
+## 💼 Experiência
+
+**2G Sistemas** — Full Stack Developer Júnior · 2026 – atual
+
+Desenvolvimento de **landing pages** modernas e rápidas para empresas que querem transmitir confiança e converter visitantes em clientes. Já entreguei as primeiras 4 páginas e sigo aprendendo com a rotina real de projetos.
+
+🌐 [2gsistemas.com.br](https://www.2gsistemas.com.br/)
 
 ---
 
@@ -38,7 +49,7 @@ Na faculdade, desenvolvi projetos com **Java, Programação Orientada a Objetos,
 **✅ Já utilizei em projetos**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github,vscode" alt="Já utilizei" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github,vercel,vscode" alt="Já utilizei" />
 </p>
 
 **🧭 Próximos passos**
@@ -93,5 +104,5 @@ Bacharelado em Ciência da Computação · 4º semestre (em andamento)
 ---
 
 <p align="center">
-  💬 Aberto a oportunidades de estágio — fale comigo pelo <a href="https://www.linkedin.com/in/josegabrielcruz/">LinkedIn</a>!
+  💬 Vamos trocar uma ideia sobre desenvolvimento web? Fale comigo pelo <a href="https://www.linkedin.com/in/josegabrielcruz/">LinkedIn</a>!
 </p>
